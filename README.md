@@ -1,1 +1,1 @@
-# cardiovascualr_disease_prediction
+This is my mini project, where I have done machine learning to predict cardiovascular diseases with high accuracy using the Framingham, Heart Disease, and Cleveland datasets. For this, I have used Machine learning algorithms like Logistic Regression, KNN (K Nearest Neighbours) and Ensemble of both.
